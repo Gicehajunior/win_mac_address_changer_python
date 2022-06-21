@@ -4,7 +4,7 @@
 ## GET STARTED
 - To get started, just do the following;
 
-        1) git clone <a href="https://github.com/Gicehajunior/win_mac_address_changer_python.git">https://github.com/Gicehajunior/win_mac_address_changer_python.git</a>
+        1) git clone https://github.com/Gicehajunior/win_mac_address_changer_python.git
         2) Put the parser project folder on a certain known path
         3) Open your terminal as an administrator.
         3) On your terminal, navigate to the directory where the project is put
